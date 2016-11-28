@@ -1,0 +1,528 @@
+
+<?xml version="1.0" encoding="Big5"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML Basic 1.1//EN"
+          "http://www.w3.org/TR/xhtml-basic/xhtml-basic11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="zh-TW" lang="zh-TW">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5" />
+
+<link rel="home" title="Home" href="http://www.ptt.cc/" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/default.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/print.css" media="print" />
+
+<title>熱門看板 - 批踢踢實業坊</title>
+<meta name="robots" content="all" />
+<meta name="author" content="in2 http://in2home.org, design by Dave Shea http://www.mezzoblue.com/" />
+<meta name="keywords" content="Ptt BBS 批踢踢" />
+
+
+<meta property="og:site_name" content="Ptt 批踢踢實業坊" />
+<meta property="og:title" content="熱門看板" />
+
+
+<link rel="author" href="http://in2home.org/" />
+<link rel="designer" href="http://www.mezzoblue.com/" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32365737-1']);
+  _gaq.push(['_setDomainName', 'ptt.cc']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body id="www-mozilla-org" class="secondLevel">
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<div id="fb-root"></div>
+<div id="container">
+<!--<p class="skipLink"><a href="#mainContent" accesskey="2">Skip to main content</a></p>-->
+<div id="header">
+    <a id="banner" href="/" title="回到首頁" accesskey="1"></a>
+<div id="tools">
+<ul id="mainNav">
+<li><a href="/index.html" title="">Service</a></li>
+<li><a href="/statistics.html" title="">Doc</a></li>
+<li><a href="/links.html" title="">Link</a></li>
+<li><a href="/bbs/index.html" title="">WebBBS</a></li>
+<!--
+<li><a href="/pttaction.html" title="">Action</a></li>
+<li><a href="/thanks.html" title="">Thanks</a></li>
+<li><a href="/faq.html" title="">Faq</a></li>
+-->
+<li><a href="/contact.html" title="">Contact</a></li>
+<li><a href="/about.html" title="">About</a></li>
+</ul>
+<div id="sf">
+批踢踢實業坊<br />
+
+</div>
+</div>
+</div>
+
+
+<hr class="hide" />
+<div id="mBody">
+<div id="side">
+
+<ul id="nav">
+  <li><a title="首頁" href="/index.html"><strong> 首頁</strong></a></li>
+  <li><a title="佈告欄" href="/bbs/1.html"><strong> 佈告欄首頁</strong></a>
+    <ul>
+      <li><a href="/bbs/Elephants/index.html"> Elephants</a></li>
+      <li><a href="/bbs/Beauty/index.html"> Beauty</a></li>
+      <li><a href="/bbs/StupidClown/index.html"> StupidClown </a></li>
+    </ul></li>
+  <li><a title="精華區" href="/man/1.html"><strong> 精華區首頁</strong></a>
+    <ul>
+      <li><a href="/man/Food/index.html"> Food</a></li>
+      <li><a href="/man/movie/index.html"> movie</a></li>
+      <li><a href="/man/BeautySalon/index.html"> BeautySalon</a></li>
+    </ul>
+  </li>
+  <li><a title="熱門看板" href="/hotboard.html"><strong> 熱門看板</strong></a></li>
+</ul>
+
+</div>
+
+
+<hr class="hide" />
+ <div id="mainContent">
+  <div id="finds">
+    <h2>熱門看板</h2>
+  <p>以下列出目前在批踢踢實業坊上最熱門的看板，讓您快速找到目前最火熱的話題。<br />
+      (本文約每小時更新，最後更新時間 Fri Nov  4 08:50:55 2016)
+</p>
+
+<div id="prodlist">
+<h2>熱門看板</h2>
+<dl>
+
+
+   <dd>
+<table><tr>
+<td width="100">人氣：13140</td>
+<td width="120"><a href="/bbs/Gossiping/index.html">Gossiping</a></td>
+<td width="400"><a href="/bbs/Gossiping/index.html">八卦板</a></td>
+<td width="120"><a href="/bbs/Gossiping/index.html">看板</a> | 
+                <a href="/man/Gossiping/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：3842</td>
+<td width="120"><a href="/bbs/NBA/index.html">NBA</a></td>
+<td width="400"><a href="/bbs/NBA/index.html">[NBA ] 2016-17 NBA開打! (有賭盤</a></td>
+<td width="120"><a href="/bbs/NBA/index.html">看板</a> | 
+                <a href="/man/NBA/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：3264</td>
+<td width="120"><a href="/bbs/Baseball/index.html">Baseball</a></td>
+<td width="400"><a href="/bbs/Baseball/index.html">[棒球] 小熊今年真的拿冠軍!!</a></td>
+<td width="120"><a href="/bbs/Baseball/index.html">看板</a> | 
+                <a href="/man/Baseball/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：1852</td>
+<td width="120"><a href="/bbs/LoL/index.html">LoL</a></td>
+<td width="400"><a href="/bbs/LoL/index.html">[LoL] 永遠不要低估一顆冠軍的心</a></td>
+<td width="120"><a href="/bbs/LoL/index.html">看板</a> | 
+                <a href="/man/LoL/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：1843</td>
+<td width="120"><a href="/bbs/C_Chat/index.html">C_Chat</a></td>
+<td width="400"><a href="/bbs/C_Chat/index.html">[希洽] 開噓記名公投(請重投)</a></td>
+<td width="120"><a href="/bbs/C_Chat/index.html">看板</a> | 
+                <a href="/man/C_Chat/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：1768</td>
+<td width="120"><a href="/bbs/WomenTalk/index.html">WomenTalk</a></td>
+<td width="400"><a href="/bbs/WomenTalk/index.html">【女孩板】發文前先看置底公告</a></td>
+<td width="120"><a href="/bbs/WomenTalk/index.html">看板</a> | 
+                <a href="/man/WomenTalk/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：1203</td>
+<td width="120"><a href="/bbs/Stock/index.html">Stock</a></td>
+<td width="400"><a href="/bbs/Stock/index.html">[股板] 樂陞文管制條款請見置底</a></td>
+<td width="120"><a href="/bbs/Stock/index.html">看板</a> | 
+                <a href="/man/Stock/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：1126</td>
+<td width="120"><a href="/bbs/marvel/index.html">marvel</a></td>
+<td width="400"><a href="/bbs/marvel/index.html">[媽佛] 電話裡的他到底是誰....??</a></td>
+<td width="120"><a href="/bbs/marvel/index.html">看板</a> | 
+                <a href="/man/marvel/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：1096</td>
+<td width="120"><a href="/bbs/MobileComm/index.html">MobileComm</a></td>
+<td width="400"><a href="/bbs/MobileComm/index.html">[手機板]</a></td>
+<td width="120"><a href="/bbs/MobileComm/index.html">看板</a> | 
+                <a href="/man/MobileComm/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：1004</td>
+<td width="120"><a href="/bbs/PokemonGO/index.html">PokemonGO</a></td>
+<td width="400"><a href="/bbs/PokemonGO/index.html">[PMGO] 連道館都搬家惹!Σ(°⑸°</a></td>
+<td width="120"><a href="/bbs/PokemonGO/index.html">看板</a> | 
+                <a href="/man/PokemonGO/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：999</td>
+<td width="120"><a href="/bbs/movie/index.html">movie</a></td>
+<td width="400"><a href="/bbs/movie/index.html">[電影] movie 金馬獎賭盤</a></td>
+<td width="120"><a href="/bbs/movie/index.html">看板</a> | 
+                <a href="/man/movie/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：848</td>
+<td width="120"><a href="/bbs/Tech_Job/index.html">Tech_Job</a></td>
+<td width="400"><a href="/bbs/Tech_Job/index.html">[科技] 工作之餘也多關心七天假</a></td>
+<td width="120"><a href="/bbs/Tech_Job/index.html">看板</a> | 
+                <a href="/man/Tech_Job/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：830</td>
+<td width="120"><a href="/bbs/Boy-Girl/index.html">Boy-Girl</a></td>
+<td width="400"><a href="/bbs/Boy-Girl/index.html">[男女] 文章內要有男女點</a></td>
+<td width="120"><a href="/bbs/Boy-Girl/index.html">看板</a> | 
+                <a href="/man/Boy-Girl/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：676</td>
+<td width="120"><a href="/bbs/BabyMother/index.html">BabyMother</a></td>
+<td width="400"><a href="/bbs/BabyMother/index.html">[媽寶] 歡迎新板主meles+新版規</a></td>
+<td width="120"><a href="/bbs/BabyMother/index.html">看板</a> | 
+                <a href="/man/BabyMother/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：643</td>
+<td width="120"><a href="/bbs/car/index.html">car</a></td>
+<td width="400"><a href="/bbs/car/index.html">[汽車] 心得徵文活動中，歡迎投稿</a></td>
+<td width="120"><a href="/bbs/car/index.html">看板</a> | 
+                <a href="/man/car/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：626</td>
+<td width="120"><a href="/bbs/MLB/index.html">MLB</a></td>
+<td width="400"><a href="/bbs/MLB/index.html">WS Champ is worth waiting for. </a></td>
+<td width="120"><a href="/bbs/MLB/index.html">看板</a> | 
+                <a href="/man/MLB/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：616</td>
+<td width="120"><a href="/bbs/WOW/index.html">WOW</a></td>
+<td width="400"><a href="/bbs/WOW/index.html">[WoW] Blizzcon虛擬門票贈票抽獎</a></td>
+<td width="120"><a href="/bbs/WOW/index.html">看板</a> | 
+                <a href="/man/WOW/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：610</td>
+<td width="120"><a href="/bbs/e-shopping/index.html">e-shopping</a></td>
+<td width="400"><a href="/bbs/e-shopping/index.html">[ＥＳ] 冬天要來了（*′_●`）y</a></td>
+<td width="120"><a href="/bbs/e-shopping/index.html">看板</a> | 
+                <a href="/man/e-shopping/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：603</td>
+<td width="120"><a href="/bbs/BuyTogether/index.html">BuyTogether</a></td>
+<td width="400"><a href="/bbs/BuyTogether/index.html">[合購] 板主徵求中，快來應徵吧！</a></td>
+<td width="120"><a href="/bbs/BuyTogether/index.html">看板</a> | 
+                <a href="/man/BuyTogether/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：579</td>
+<td width="120"><a href="/bbs/Japan_Travel/index.html">Japan_Travel</a></td>
+<td width="400"><a href="/bbs/Japan_Travel/index.html">ITF台北國際旅展資訊已出請參閱</a></td>
+<td width="120"><a href="/bbs/Japan_Travel/index.html">看板</a> | 
+                <a href="/man/Japan_Travel/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：538</td>
+<td width="120"><a href="/bbs/joke/index.html">joke</a></td>
+<td width="400"><a href="/bbs/joke/index.html">          ＝ joke ＝</a></td>
+<td width="120"><a href="/bbs/joke/index.html">看板</a> | 
+                <a href="/man/joke/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：493</td>
+<td width="120"><a href="/bbs/Beauty/index.html">Beauty</a></td>
+<td width="400"><a href="/bbs/Beauty/index.html">《表特板》帥哥美女板-不要偷拍</a></td>
+<td width="120"><a href="/bbs/Beauty/index.html">看板</a> | 
+                <a href="/man/Beauty/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：475</td>
+<td width="120"><a href="/bbs/marriage/index.html">marriage</a></td>
+<td width="400"><a href="/bbs/marriage/index.html">[婚姻] 板主招募中~</a></td>
+<td width="120"><a href="/bbs/marriage/index.html">看板</a> | 
+                <a href="/man/marriage/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：436</td>
+<td width="120"><a href="/bbs/KoreaDrama/index.html">KoreaDrama</a></td>
+<td width="400"><a href="/bbs/KoreaDrama/index.html">[韓劇] 步步今天關心您！！</a></td>
+<td width="120"><a href="/bbs/KoreaDrama/index.html">看板</a> | 
+                <a href="/man/KoreaDrama/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：430</td>
+<td width="120"><a href="/bbs/StupidClown/index.html">StupidClown</a></td>
+<td width="400"><a href="/bbs/StupidClown/index.html">抱歉啊年輕人</a></td>
+<td width="120"><a href="/bbs/StupidClown/index.html">看板</a> | 
+                <a href="/man/StupidClown/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：424</td>
+<td width="120"><a href="/bbs/Hearthstone/index.html">Hearthstone</a></td>
+<td width="400"><a href="/bbs/Hearthstone/index.html">[爐石] 置底Blizzcon賭盤(f)</a></td>
+<td width="120"><a href="/bbs/Hearthstone/index.html">看板</a> | 
+                <a href="/man/Hearthstone/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：402</td>
+<td width="120"><a href="/bbs/MakeUp/index.html">MakeUp</a></td>
+<td width="400"><a href="/bbs/MakeUp/index.html">[美妝] 掏錢買單？只有自己能決定</a></td>
+<td width="120"><a href="/bbs/MakeUp/index.html">看板</a> | 
+                <a href="/man/MakeUp/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：384</td>
+<td width="120"><a href="/bbs/Japandrama/index.html">Japandrama</a></td>
+<td width="400"><a href="/bbs/Japandrama/index.html">[日劇] 嬌妻熱烈洗板中</a></td>
+<td width="120"><a href="/bbs/Japandrama/index.html">看板</a> | 
+                <a href="/man/Japandrama/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：379</td>
+<td width="120"><a href="/bbs/KoreaStar/index.html">KoreaStar</a></td>
+<td width="400"><a href="/bbs/KoreaStar/index.html">[韓星] 綜星閃耀徵文 10/14 開始!</a></td>
+<td width="120"><a href="/bbs/KoreaStar/index.html">看板</a> | 
+                <a href="/man/KoreaStar/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：358</td>
+<td width="120"><a href="/bbs/Lifeismoney/index.html">Lifeismoney</a></td>
+<td width="400"><a href="/bbs/Lifeismoney/index.html">[省錢] Show me the money!</a></td>
+<td width="120"><a href="/bbs/Lifeismoney/index.html">看板</a> | 
+                <a href="/man/Lifeismoney/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：349</td>
+<td width="120"><a href="/bbs/PC_Shopping/index.html">PC_Shopping</a></td>
+<td width="400"><a href="/bbs/PC_Shopping/index.html">[電蝦] 下一個戰場 11/11..</a></td>
+<td width="120"><a href="/bbs/PC_Shopping/index.html">看板</a> | 
+                <a href="/man/PC_Shopping/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：339</td>
+<td width="120"><a href="/bbs/PlayStation/index.html">PlayStation</a></td>
+<td width="400"><a href="/bbs/PlayStation/index.html">[PS4] 內褲文請保留置頂警示</a></td>
+<td width="120"><a href="/bbs/PlayStation/index.html">看板</a> | 
+                <a href="/man/PlayStation/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：336</td>
+<td width="120"><a href="/bbs/AllTogether/index.html">AllTogether</a></td>
+<td width="400"><a href="/bbs/AllTogether/index.html">[歐兔] 眼緣是一種通靈的境界!</a></td>
+<td width="120"><a href="/bbs/AllTogether/index.html">看板</a> | 
+                <a href="/man/AllTogether/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：316</td>
+<td width="120"><a href="/bbs/iPhone/index.html">iPhone</a></td>
+<td width="400"><a href="/bbs/iPhone/index.html">[iOS] 新鮮的蘋果低溫運送錯了嗎</a></td>
+<td width="120"><a href="/bbs/iPhone/index.html">看板</a> | 
+                <a href="/man/iPhone/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：313</td>
+<td width="120"><a href="/bbs/Tainan/index.html">Tainan</a></td>
+<td width="400"><a href="/bbs/Tainan/index.html">[台南板] 56板主上任滿意度調查</a></td>
+<td width="120"><a href="/bbs/Tainan/index.html">看板</a> | 
+                <a href="/man/Tainan/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：299</td>
+<td width="120"><a href="/bbs/NBA_Film/index.html">NBA_Film</a></td>
+<td width="400"><a href="/bbs/NBA_Film/index.html">2016 Champ: Cleveland Cavaliers</a></td>
+<td width="120"><a href="/bbs/NBA_Film/index.html">看板</a> | 
+                <a href="/man/NBA_Film/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：298</td>
+<td width="120"><a href="/bbs/creditcard/index.html">creditcard</a></td>
+<td width="400"><a href="/bbs/creditcard/index.html">發文前請先爬文 避免誤觸板規</a></td>
+<td width="120"><a href="/bbs/creditcard/index.html">看板</a> | 
+                <a href="/man/creditcard/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：295</td>
+<td width="120"><a href="/bbs/Kaohsiung/index.html">Kaohsiung</a></td>
+<td width="400"><a href="/bbs/Kaohsiung/index.html">[高雄] 沒高雄點不要發</a></td>
+<td width="120"><a href="/bbs/Kaohsiung/index.html">看板</a> | 
+                <a href="/man/Kaohsiung/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+   <dd>
+<table><tr>
+<td width="100">人氣：287</td>
+<td width="120"><a href="/bbs/TWICE/index.html">TWICE</a></td>
+<td width="400"><a href="/bbs/TWICE/index.html">[TWICE] TT MV點閱3000萬粗咖！</a></td>
+<td width="120"><a href="/bbs/TWICE/index.html">看板</a> | 
+                <a href="/man/TWICE/index.html">精華區</a></a></td>
+</tr></table>
+   </dd>
+
+</dl>
+
+</div>
+
+
+
+<hr class="hide" />
+<div id="footer">
+<p class="copyright">你現在看到的首頁 Layout 是修改自 <a href="http://www.mozilla.org">Mozilla.org</a> 的首頁，原始樣板由 <a href="http://www.mezzoblue.com/">Dave Shea</a> 所製作。</p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
